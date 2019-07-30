@@ -1,0 +1,13 @@
+Brainstormed ideas for a web app. Chose a fish and chip shop comparison app for mobile. Mobile first development.
+Started sketching wireframe for landing page. Called "Chip Compare". Entry field for location identifier. Drop-down menu
+for what to compare. Click-arrow to extend and show options to compare. Press button "Compare Now'. @ options when click button.
+List displays  fish and chip shops in area according to postcode. The rating. Price . 2nd Option. First screen Chip compare title
+two buttons postcode and button next. Opens new page where select food type from drop down list and click compare button.
+Opens next screen showing list of shop name, Rank, Price "go" buttons beside each item or choose "new food type" button. Go opens
+a google map and store information contact details. Previous is mobile version. Desktop combines mobile pages functionality
+into one screen. 
+
+User Story
+Calum is a solo dad who loves coffee who is a student at NMIT and studies all the time.One adorable child. 
+Is a part-time software developer. Has very little time and often tired and cranky. He needs his fish and chips. 
+He wants to quickly know the nearest fish and chip shop is and who has the best chips currently.
