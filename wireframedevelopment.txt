@@ -7,7 +7,13 @@ Opens next screen showing list of shop name, Rank, Price "go" buttons beside eac
 a google map and store information contact details. Previous is mobile version. Desktop combines mobile pages functionality
 into one screen. 
 
-User Story
+User Story One:
 Calum is a solo dad who loves coffee who is a student at NMIT and studies all the time.One adorable child. 
 Is a part-time software developer. Has very little time and often tired and cranky. He needs his fish and chips. 
 He wants to quickly know the nearest fish and chip shop is and who has the best chips currently.
+
+User Story Two:
+Milton is married  and has a family of 7. He works as a supervisor
+and is very busy. He loves to tinker in the man cave. His favourite food is anything
+sweet. He stresses a lot. Everyone is hungry and Milton needs to find the cheapest, 
+closest option for fish and chips.
