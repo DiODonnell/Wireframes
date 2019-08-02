@@ -1,16 +1,34 @@
 h1{
     text-align: center;
-    font-size: 200px;
-}
-
-
-.backgroundColor{
-    background:#036bfc;
+    font-size: 150px;
+    color:#342609 ;
 }
 
 h2{
     font-size: 100px;
+    color:#342609;
 }
+
+p{
+    color:#342609;
+}
+
+.headerColor{
+    color:#342609;
+    background:#FD3A0F;
+    border: thin solid black;
+}
+
+.backgroundColor{
+    background:#FBA90A;
+}
+
+.footerColor{
+    color:#342609;
+    background: #FC7307;
+    border: thin solid black;
+}
+
 
 .textExtraLarge{
     font-size: 200px;
@@ -32,4 +50,10 @@ table input {
     height: 40px;
     width: 100%;
     min-width: 75px;
+}
+
+.buttonColor{
+    color:#342609;
+    background:#FC7307;
+    border: thin solid black;
 }
