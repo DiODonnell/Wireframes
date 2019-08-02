@@ -13,18 +13,26 @@ p{
     color:#342609;
 }
 
-.headingColor{
+.headerColor{
+    color:#342609;
     background:#FD3A0F;
+    border: thin solid black;
 }
 
 .backgroundColor{
-    background:#FC7307;
+    background:#FBA90A;
 }
 
 .footerColor{
-    background: #342609;
+    color:#342609;
+    background: #FC7307;
+    border: thin solid black;
 }
 
-
+.buttonColor{
+    color:#342609;
+    background:#FC7307;
+    border: thin solid black;
+}
 
 
