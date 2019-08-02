@@ -20,5 +20,6 @@
 
 table input {
     height: 40px;
-    width: 75px;
+    width: 100%;
+    min-width: 75px;
 }
