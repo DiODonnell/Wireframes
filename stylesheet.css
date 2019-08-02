@@ -1,5 +1,15 @@
-.textCenterAlign{
+h1{
     text-align: center;
+    font-size: 200px;
+}
+
+
+.backgroundColor{
+    background:#036bfc;
+}
+
+h2{
+    font-size: 100px;
 }
 
 .textExtraLarge{
