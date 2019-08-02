@@ -1,14 +1,30 @@
 h1{
     text-align: center;
-    font-size: 200px;
-}
-
-
-.backgroundColor{
-    background:#036bfc;
+    font-size: 150px;
+    color:#342609 ;
 }
 
 h2{
     font-size: 100px;
+    color:#342609;
 }
+
+p{
+    color:#342609;
+}
+
+.headingColor{
+    background:#FD3A0F;
+}
+
+.backgroundColor{
+    background:#FC7307;
+}
+
+.footerColor{
+    background: #342609;
+}
+
+
+
 
