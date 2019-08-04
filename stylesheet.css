@@ -55,22 +55,4 @@ p{
     border: thin solid black;
 }
 
-#results {
-    width: 80%;
-    margin: 0 auto;
-}
-
-#btnToSelection {
-    display: block;
-    height: 40px;
-    width: 80%;
-    margin: 0 auto;
-}
-
-table input {
-    height: 40px;
-    width: 100%;
-    min-width: 75px;
-}
-
 
