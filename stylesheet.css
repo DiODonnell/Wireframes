@@ -1,14 +1,110 @@
-h1{
-    text-align: center;
-    font-size: 200px;
+/*Callum CSS*/
+/* Element Styling */
+footer{
+    width: 100%;
+    height: 50px;
+    box-sizing: border-box;
+    position: relative;
+    color:#342609;
+    border: thin solid black;
+    background-color: #FC7307;
 }
 
+header{
+    width: 100%;
+    box-sizing: border-box;
+    position: relative;
+    color:#342609;
+    background-color:#FC7307;
+    border: thin solid black;
+}
 
-.backgroundColor{
-    background:#036bfc;
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    background-color:#FBA90A;
+    display: table-cell;
+    vertical-align: top;
+    
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    color:#342609 ;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h2{
     font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#342609;
 }
+
+p{
+    color:#342609;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+/* Class styling */
+
+.buttonColor{
+    color:#342609;
+    background:#FC7307;
+    border: thin solid black;
+}
+/*Callum CSS*/
+
+/*Brad CSS*/
+
+
+.headerColor{
+    color:#342609;
+    background:#FD3A0F;
+    border: thin solid black;
+}
+
+.backgroundColor{
+    background:#FBA90A;
+}
+
+.footerColor{
+    color:#342609;
+    background: #FC7307;
+    border: thin solid black;
+}
+
+.buttonColor{
+    color:#342609;
+    background:#FC7307;
+    border: thin solid black;
+}
+
+#results {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#btnToSelection {
+    display: block;
+    height: 40px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+table input {
+    height: 40px;
+    width: 100%;
+    min-width: 75px;
+}
+
+/*Brad CSS*/
 
