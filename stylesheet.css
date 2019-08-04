@@ -1,4 +1,5 @@
 /*Callum CSS*/
+
 /* Element Styling */
 footer{
     width: 100%;
@@ -37,6 +38,7 @@ body {
 h1{
     text-align: center;
 <<<<<<< HEAD
+<<<<<<< HEAD
     font-size: 150px;
     color:#342609 ;
 }
@@ -50,6 +52,8 @@ p{
     color:#342609;
 }
 =======
+=======
+>>>>>>> master
     font-size: 100px;
     color:#342609 ;
     font-family: Arial, Helvetica, sans-serif;
@@ -79,7 +83,10 @@ p{
 
 /*Brad CSS*/
 
+<<<<<<< HEAD
 >>>>>>> ad6fd9126c90ee53b5fad6a66362c1b628937f08
+=======
+>>>>>>> master
 
 .headerColor{
     color:#342609;
@@ -87,15 +94,8 @@ p{
     border: thin solid black;
 }
 
-.backgroundColor{
-    background:#FBA90A;
-}
 
-.footerColor{
-    color:#342609;
-    background: #FC7307;
-    border: thin solid black;
-}
+/* Class styling */
 
 .buttonColor{
     color:#342609;
@@ -104,7 +104,10 @@ p{
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> master
 #results {
     width: 80%;
     margin: 0 auto;
@@ -124,5 +127,8 @@ table input {
 }
 
 /*Brad CSS*/
+<<<<<<< HEAD
 >>>>>>> ad6fd9126c90ee53b5fad6a66362c1b628937f08
+=======
+>>>>>>> master
 
