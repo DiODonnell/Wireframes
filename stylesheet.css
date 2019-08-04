@@ -1,4 +1,23 @@
+/*Callum CSS*/
+/* Element Styling */
+footer{
+    width: 100%;
+    height: 50px;
+    box-sizing: border-box;
+    position: relative;
+    color:#342609;
+    border: thin solid black;
+    background-color: #FC7307;
+}
 
+header{
+    width: 100%;
+    box-sizing: border-box;
+    position: relative;
+    color:#342609;
+    background-color:#FC7307;
+    border: thin solid black;
+}
 
 html, body {
     height: 100%;
@@ -10,20 +29,20 @@ html {
 }
 
 body {
+    background-color:#FBA90A;
     display: table-cell;
     vertical-align: top;
     
 }
 h1{
     text-align: center;
-    font-size: 150px;
+    font-size: 100px;
     color:#342609 ;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h2{
     font-size: 100px;
-    
     font-family: Arial, Helvetica, sans-serif;
     color:#342609;
 }
@@ -32,6 +51,20 @@ p{
     color:#342609;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+
+
+/* Class styling */
+
+.buttonColor{
+    color:#342609;
+    background:#FC7307;
+    border: thin solid black;
+}
+/*Callum CSS*/
+
+/*Brad CSS*/
+
 
 .headerColor{
     color:#342609;
@@ -73,4 +106,5 @@ table input {
     min-width: 75px;
 }
 
+/*Brad CSS*/
 
