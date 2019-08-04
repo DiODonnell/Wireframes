@@ -7,8 +7,8 @@ footer{
     box-sizing: border-box;
     position: relative;
     color:#342609;
+    background-color:#FD3A0F;
     border: thin solid black;
-    background-color: #FC7307;
 }
 
 header{
@@ -16,7 +16,7 @@ header{
     box-sizing: border-box;
     position: relative;
     color:#342609;
-    background-color:#FC7307;
+    background-color:#FD3A0F;
     border: thin solid black;
 }
 
@@ -37,25 +37,17 @@ body {
 }
 h1{
     text-align: center;
-<<<<<<< HEAD
-<<<<<<< HEAD
-    font-size: 150px;
+    font-size: 100px;
     color:#342609 ;
 }
 
 h2{
-    font-size: 100px;
+    font-size: 50px;
     color:#342609;
 }
 
 p{
     color:#342609;
-}
-=======
-=======
->>>>>>> master
-    font-size: 100px;
-    color:#342609 ;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -83,11 +75,6 @@ p{
 
 /*Brad CSS*/
 
-<<<<<<< HEAD
->>>>>>> ad6fd9126c90ee53b5fad6a66362c1b628937f08
-=======
->>>>>>> master
-
 .headerColor{
     color:#342609;
     background:#FD3A0F;
@@ -103,11 +90,6 @@ p{
     border: thin solid black;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> master
 #results {
     width: 80%;
     margin: 0 auto;
@@ -127,8 +109,4 @@ table input {
 }
 
 /*Brad CSS*/
-<<<<<<< HEAD
->>>>>>> ad6fd9126c90ee53b5fad6a66362c1b628937f08
-=======
->>>>>>> master
 
