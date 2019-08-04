@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+/*Callum CSS*/
+>>>>>>> 109bee00a210749777a39e2808093929303a43c3
 /* Element Styling */
 footer{
     width: 100%;
@@ -51,6 +55,28 @@ p{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+<<<<<<< HEAD
+=======
+
+
+/* Class styling */
+
+.buttonColor{
+    color:#342609;
+    background:#FC7307;
+    border: thin solid black;
+}
+/*Callum CSS*/
+
+/*Brad CSS*/
+
+
+.headerColor{
+    color:#342609;
+    background:#FD3A0F;
+    border: thin solid black;
+}
+>>>>>>> 109bee00a210749777a39e2808093929303a43c3
 
 
 /* Class styling */
@@ -61,4 +87,23 @@ p{
     border: thin solid black;
 }
 
+#results {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#btnToSelection {
+    display: block;
+    height: 40px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+table input {
+    height: 40px;
+    width: 100%;
+    min-width: 75px;
+}
+
+/*Brad CSS*/
 
