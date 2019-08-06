@@ -11,8 +11,17 @@ footer{
     border: thin solid black;
 }
 
+.width{
+    width: 100% !important;
+}
+
 header{
     width: 100%;
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    Font-size: 80px;
+    font-weight: bold;
+    text-align: center;
     box-sizing: border-box;
     position: relative;
     color:#342609;
@@ -36,9 +45,12 @@ body {
     
 }
 h1{
+    bottom: 100px;
+    position: relative;
     text-align: center;
-    font-size: 100px;
+    font-size: 75px;
     color:#342609 ;
+    line-height: 80px;
 }
 
 h2{
@@ -293,6 +305,7 @@ table input {
     -webkit-border-bottom-right-radius: 3px;
     -moz-border-radius-bottomright: 3px;
   }
+
   #menu-bar:after {
     content: ".";
     display: block;
@@ -301,12 +314,16 @@ table input {
     line-height: 0;
     height: 0;
   }
+
   #menu-bar {
     display: inline-block;
+    width: 99%;
   }
+
     html[xmlns] #menu-bar {
     display: block;
   }
+
   * html #menu-bar {
     height: 1%;
   }
