@@ -11,15 +11,11 @@ footer{
     border: thin solid black;
 }
 
-.width{
-    width: 100% !important;
-}
-
 header{
     width: 100%;
-    height: 100px;
+    /* height: 100px; */
     font-family: Arial, Helvetica, sans-serif;
-    Font-size: 80px;
+    Font-size: 50px;
     font-weight: bold;
     text-align: center;
     box-sizing: border-box;
@@ -83,7 +79,14 @@ p{
     background:#FC7307;
     border: thin solid black;
 }
-/*Callum CSS*/
+
+.foot-placement1{
+top: 50px;
+}
+
+.foot-placement2{
+    top: 10px;
+}
 
 /*Brad CSS*/
 
